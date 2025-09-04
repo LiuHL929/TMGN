@@ -1,5 +1,6 @@
 # TMGN
 
+This project proposes TMGN, a novel framework for Remote Sensing Visual Question Answering (RS VQA) that enhances the identification and comprehension of small objects in complex remote sensing images via contrast enhancement and a mutual guidance mechanism.
 
 ## Dataset
 
