@@ -1,6 +1,6 @@
 # TMGN
 
-This project utilizes the **Remote Sensing VQA - Low Resolution (RSVQA-LR)** and **High Resolution (RSVQA-HR)** datasets, created by Sylvain Lobry, Diego Marcos, Jesse Murray, and Devis Tuia.
+This project uses the **Remote Sensing VQA - Low Resolution (RSVQA-LR)** and **High Resolution (RSVQA-HR)** datasets, created by Sylvain Lobry, Diego Marcos, Jesse Murray, and Devis Tuia.
 
 ## Dataset
 
